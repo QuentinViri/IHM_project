@@ -1,0 +1,21 @@
+[
+    {
+      "reference" : "c39402",
+      "description" : "Iphone 13",
+      "quantity" : "1",
+      "shipping_date":"14/01/2022"
+    },
+    {
+      "reference" : "c42309",
+      "description" : "Iphone 13",
+      "quantity" : "2",
+      "shipping_date":"17/01/2022"
+    },
+    {
+      "reference" : "c10984",
+      "description" : "Macbook Air 2020 M1",
+      "quantity" : "1",
+      "shipping_date":"22/01/2022"
+    }
+  ]
+  

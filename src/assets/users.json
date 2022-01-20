@@ -1,0 +1,30 @@
+[
+    {
+        "firstname" : "Thomas",
+        "lastname" : "Doudeau",
+        "email":"thomas.doudeau@gmail.com",
+        "country" : "France",
+        "city":"Saint-Etienne",
+        "CP":"42000",
+        "address":"15 rue Jaures"
+    },
+    {
+        "firstname" : "Matthieu",
+        "lastname" : "Burban",
+        "email":"matthieu.burban@gmail.com",
+        "country" : "France",
+        "city":"Saint-Etienne",
+        "CP":"42000",
+        "address":"2 rue du 12 Septembre"
+    },
+    {
+        "firstname" : "Quentin",
+        "lastname" : "Viricel",
+        "email":"quentin.viricel@gmail.com",
+        "country" : "France",
+        "city":"Paris",
+        "CP":"75004",
+        "address":"1 rue Béarn"
+        
+    }
+]
